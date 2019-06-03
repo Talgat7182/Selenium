@@ -185,7 +185,7 @@ public class OrderRequest extends CommonMethods {
 			if (text.contains(updatedStr)) {
 
 				System.out.println("Updated street " + updatedStr + " is displayed in the table");
-			  //  flag=true;
+			  flag=true;
                 break;
                 
 			}
